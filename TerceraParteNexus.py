@@ -102,3 +102,4 @@ while Proceso == True:
         
     elif Proceso2 == 5:
         print("FIN DEL PROGRAMA")
+        Proceso=False
